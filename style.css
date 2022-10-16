@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100vh;
+    width: 100%;
+    background: black;
+    background-position: center;
+    color : #fff;
+}
+nav{
+    display: flex;
+    padding: 20px 100px;
+}
+nav img{
+    width: 140px;
+}
+.head{
+    margin: -32%;
+    padding: 0%;
+    color: #fff;
+}
+.head .h2{
+    
+}
+.m1{
+    margin: 15%;
+    padding-left: 15%;
+    text-align: center;
+    display: inline;
+    list-style: none;
+    flex: 1;
+
+}
+nav ul li{
+    display: inline-block;
+    margin: 0 20px;
+}
+.main-text{
+    color: orangered;
+    margin: 0%;
+    padding-left: 5%;
+}
+.m1 .button1{
+    text-decoration: none;
+    display: block;
+    width: 135px;
+    height: 35px;
+    margin: 25px auto;
+    color: #fff;
+    line-height: 35px;
+    border: 1px solid #fff;
+}
+.button1:hover{
+    background: #fff;
+    color: #000;
+    transition: 0.5s;
+}
+.m2 .button2{
+    text-decoration: none;
+    display: block;
+    width: 158px;
+    height: 35px;
+    margin: 25px auto;
+    color: #fff;
+    line-height: 35px;
+    border: 1px solid #fff;
+}
+.button2:hover{
+    background: #fff;
+    color: #000;
+    transition: 0.5s;
+}
+.m3 .button3{
+    text-decoration: none;
+    display: block;
+    width: 198px;
+    height: 35px;
+    margin: 25px auto;
+    color: #fff;
+    line-height: 35px;
+    border: 1px solid #fff;
+}
+.button3:hover{
+    background: #fff;
+    color: #000;
+    transition: 0.5s;
+}
+.m4 .button4{
+    text-decoration: none;
+    display: block;
+    width: 220px;
+    height: 35px;
+    margin: 25px auto;
+    color: #fff;
+    line-height: 35px;
+    border: 1px solid #fff;
+}
+.button4:hover{
+    background: #fff;
+    color: #000;
+    transition: 0.5s;
+}
