@@ -1,0 +1,42 @@
+.header{
+    height: 200vh;
+    width: 100%;
+    color: white;
+    background-position: center;
+}
+.he{
+    padding: 15px;
+    background-color: black;
+    overflow: hidden;
+}
+.he a{
+    margin-top: 2px;
+    margin-right: 650px;
+    padding: 10px 16px;
+    font-size: 20px;
+    display: block;
+    margin-right: 40px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+.pp{
+    margin-top: 10px;
+    color: black;
+    padding: 20px;
+    right: 30px;
+    font-size: large;
+}
+footer {
+    margin-top: 250px;
+    font-size: 14px;
+    background-color: black;
+    color: rgb(165, 165, 165);
+    text-align: center;
+    padding: 1rem;
+  }  
+footer .logo{
+    align-content: center;
+    width: 150px;
+    margin-top: 5px;
+}

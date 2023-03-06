@@ -1,0 +1,181 @@
+.header{
+    height: 150vh;
+    width: 100%;
+    background-image: url("img/BACKGROUND.jpg");
+    background-color: black;
+    background-position: center;
+    color: #fff;
+    justify-content: center;
+}
+.cdiv{
+    padding: 15px;
+    background-color: black;
+    overflow: hidden;
+}
+.cdiv img{
+    float: left;
+    width: 100px;
+}
+.cdiv a{
+    color: white;
+    font-size: 20px;
+    float: right;
+    width: 140px;
+    margin-top: 12px;
+    margin-right: 44.5%;
+    text-align: center;
+}
+footer {
+    font-size: 14px;
+    background-color: black;
+    color: rgb(165, 165, 165);
+    text-align: center;
+    padding: 1rem;
+  }  
+footer .logo{
+    align-content: center;
+    width: 150px;
+    margin-top: 5px;
+}
+footer .con{
+    margin: auto;
+    margin-top: 10px;
+    font-size: 25px;
+    text-align: center;
+}
+footer .lg{
+    align-content: center;
+    margin-bottom: 15px;
+}
+footer .lg .insta{
+    width: 24px;
+}
+footer .lg .you{
+    padding: 2px;
+    width: 35px;
+}
+footer .lg .faceb{
+    padding: 2px;
+    width: 24px;
+}
+footer .PP{
+    font-size: 10px;
+    color: rgb(165, 165, 165);
+    text-decoration: none;
+}
+footer .tc{
+    font-size: 10px;
+    color: rgb(165, 165, 165);
+    text-decoration: none;
+}
+.header .hed{
+    margin: 0%;
+    padding: 40px;
+    font-size: 35px;
+    color: red;
+    font-family: monospace;
+}
+.m1{
+    margin: 15%;
+    padding-left: 15%;
+    text-align: center;
+    display: inline;
+    list-style: none;
+    flex: 1;
+}
+.m1 .button1{
+    text-decoration: none;
+    display: block;
+    width: 220px;
+    height: 35px;
+    margin: 25px auto;
+    color: #fff;
+    line-height: 35px;
+    border: 1px solid #fff;
+}
+.button1:hover{
+    background: black;
+    border: 1px solid black;
+    color: aqua;
+    transition: 0.5s;
+    box-shadow: 0px 0px 20px cyan;
+}
+.m2 .button2{
+    text-decoration: none;
+    display: block;
+    width: 220px;
+    height: 35px;
+    margin: 25px auto;
+    color: #fff;
+    line-height: 35px;
+    border: 1px solid #fff;
+}
+.button2:hover{
+    background: black;
+    border: 1px solid black;
+    color: aqua;
+    transition: 0.5s;
+    box-shadow: 0px 0px 20px cyan;
+}
+.m3 .button3{
+    text-decoration: none;
+    display: block;
+    width: 220px;
+    height: 35px;
+    margin: 25px auto;
+    color: #fff;
+    line-height: 35px;
+    border: 1px solid #fff;
+}
+.button3:hover{
+    background: black;
+    border: 1px solid black;
+    color: aqua;
+    transition: 0.5s;
+    box-shadow: 0px 0px 20px cyan;
+}
+.m4 .button4{
+    text-decoration: none;
+    display: block;
+    width: 220px;
+    height: 35px;
+    margin: 25px auto;
+    color: #fff;
+    line-height: 35px;
+    border: 1px solid #fff;
+}
+.button4:hover{
+    background: black;
+    border: 1px solid black;
+    color: aqua;
+    transition: 0.5s;
+    box-shadow: 0px 0px 20px cyan;
+}
+.m5 .button5{
+    text-decoration: none;
+    display: block;
+    width: 220px;
+    height: 35px;
+    margin: 25px auto;
+    color: #fff;
+    line-height: 35px;
+    border: 1px solid #fff;
+}
+.button5:hover{
+    background: black;
+    border: 1px solid black;
+    color: aqua;
+    transition: 0.5s;
+    box-shadow: 0px 0px 20px cyan;
+}
+.mid{
+    margin-top: 150px;
+    padding: 15px;
+    background-color: black;
+    overflow: hidden;
+}
+.mid p{
+    font-size: 15px;
+    text-align: center;
+}
+/*CYBER SECURITY PROGRAMMING DIPLOMA ENGINEERING*/
